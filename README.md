@@ -35,15 +35,15 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
-![Your GitHub Stats]![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
 
-![Your GitHub Stats]![Total Commits](https://img.shields.io/github/commit-activity/m/YourGitHubUsername/YourRepository?style=flat-square)
+![Total Commits](https://img.shields.io/github/commit-activity/m/Mohsin0582/YourRepository?style=flat-square)
 
-![Your GitHub Stats]![Pull Requests](https://img.shields.io/github/issues-pr/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/Mohsin0582/YourRepository?style=flat-square&logo=github)
 
-![Your GitHub Stats]![Stars](https://img.shields.io/github/stars/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/Mohsin0582/YourRepository?style=flat-square&logo=github)
 
-![Your GitHub Stats]![Forks](https://img.shields.io/github/forks/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
+![Forks](https://img.shields.io/github/forks/Mohsin0582/YourRepository?style=flat-square&logo=github)
 
 <br/>
 
@@ -60,25 +60,3 @@ Happy coding! 🎨👩‍💻
 <p>
     <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
-
-
-
-
-<br/>
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-<br/><br/>
-
-## ⭐ GitHub Achievements
-
-![GitHub stars](https://img.shields.io/github/stars/YourRepository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YourRepository?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YourRepository?style=social)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YourRepository?style=social)
-
-<br/>
