@@ -79,3 +79,5 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 If you're seeking a developer who can seamlessly weave code and design into a cohesive and delightful user experience, let's connect! I'm excited to bring my unique skill set to your next project.
 
 Happy coding! 🎨👩‍💻
+
+![Coding GIF](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif)
