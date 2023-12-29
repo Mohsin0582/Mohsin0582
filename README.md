@@ -10,7 +10,7 @@ I'm a passionate and detail-oriented MERN stack developer with a unique blend of
 
 What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
 
-<br/><br/>
+<br/>
 
 ## 🔧 Skills & Technologies
 
@@ -23,13 +23,19 @@ What sets me apart is my keen eye for design. Whether it's creating pixel-perfec
 
 <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
 
-<br/><br/>
+<br/>
 
 ## 🌱 Continuous Learner
 
 Technology evolves, and so do I. I'm always eager to learn and stay updated with the latest technologies to enhance my skill set.
 
-<br/><br/>
+<br/>
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+<br/>
 
 ## 🤝 Let's Connect
 
@@ -39,14 +45,8 @@ If you're seeking a developer who can seamlessly weave code and design into a co
 
 Happy coding! 🎨👩‍💻
 
-<br/><br/>
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+<br/>
 
 <p>
     <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
-
-
