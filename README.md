@@ -31,6 +31,7 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 
 <br/>
 
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 8px;">
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
@@ -44,6 +45,7 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 ![Stars](https://img.shields.io/github/stars/Mohsin0582/YourRepository?style=flat-square&logo=github)
 
 ![Forks](https://img.shields.io/github/forks/Mohsin0582/YourRepository?style=flat-square&logo=github)
+</div>
 
 <br/>
 
