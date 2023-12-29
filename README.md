@@ -1,5 +1,6 @@
 ### ![Hello GIF](https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif)
 
+
 <!--
 **Mohsin0582/Mohsin0582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Mohsin! 👋
+# 📝 Hi there, I'm Mohsin! 👋
 
-## 📝 About Me:
+
 
 💻 Coder with a Creative Twist
 
@@ -32,6 +33,7 @@ What sets me apart is my keen eye for design. Whether it's creating pixel-perfec
 Technology evolves, and so do I. Constantly learning new tools and technologies to enhance my skill set
 
 
+
 ## 🔧 Skills & Technologies
 
 - **Frontend:** React.js, Redux, HTML, CSS, JavaScript
@@ -42,6 +44,7 @@ Technology evolves, and so do I. Constantly learning new tools and technologies 
 - **Testing:** Jest, Mocha, Chai
 
 <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/jest/jest.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
+
 
 <!--
 ## 🚀 Projects
@@ -60,6 +63,7 @@ Technology evolves, and so do I. Constantly learning new tools and technologies 
 ## 🌱 Currently Learning
 
 I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring [Technology/Topic] to enhance my skill set.
+
 
 
 ## 📈 GitHub Stats
