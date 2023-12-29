@@ -80,7 +80,7 @@ If you're seeking a developer who can seamlessly weave code and design into a co
 
 Happy coding! 🎨👩‍💻
 
-![Coding GIF](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif)
+<!-- ![Coding GIF](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif) -->
 <p align="center">
-    <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="300" height="200">
+    <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
