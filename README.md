@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Mohsin! 👋
+
+I'm a passionate MERN stack developer with a love for building scalable and efficient web applications. Here you'll find a glimpse of my work, skills, and contributions to the developer community.
+
+## 🔧 Skills & Technologies
+
+- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Database:** MongoDB
+- **Tools:** Git, Webpack, Babel
+- **Deployment:** Heroku, Netlify, Vercel
+- **Testing:** Jest, Mocha, Chai
+
+<!--
+## 🚀 Projects
+
+### Project 1: [Project Name](Link to Repository)
+- Brief description of the project.
+- Technologies used.
+- Any notable achievements or challenges.
+
+### Project 2: [Project Name](Link to Repository)
+- Brief description of the project.
+- Technologies used.
+- Any notable achievements or challenges.
+-->
+## 🌱 Currently Learning
+
+I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring [Technology/Topic] to enhance my skill set.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- Twitter: [@YourTwitterHandle](Link to Twitter)
+- Personal Website: [Your Website](Link to Personal Website)
+
+Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or just chat!
+
+Happy coding! 👨‍💻
