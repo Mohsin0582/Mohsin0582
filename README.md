@@ -1,14 +1,14 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
+
 ### ![Hello GIF](https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif)
 
 # 📝 Hi there, I'm Mohsin! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
-
-<span style="text-decoration: underline;">**💻 Coder with a Creative Twist**</span>
+**💻 Coder with a Creative Twist**
 
 I'm a passionate and detail-oriented MERN stack developer with a unique blend of coding prowess and design sensibility. My journey began with a love for problem-solving and creating efficient solutions, but along the way, I discovered a passion for crafting visually appealing and user-friendly experiences.
 
-<span style="text-decoration: underline;">**🎨 Design Savvy**</span>
+<p style="background:red;">**🎨 Design Savvy**</p>
 
 What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
 
