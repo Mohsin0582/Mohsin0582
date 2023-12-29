@@ -2,6 +2,8 @@
 
 # 📝 Hi there, I'm Mohsin! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
+
 💻 Coder with a Creative Twist
 
 I'm a passionate and detail-oriented MERN stack developer with a unique blend of coding prowess and design sensibility. My journey began with a love for problem-solving and creating efficient solutions, but along the way, I discovered a passion for crafting visually appealing and user-friendly experiences.
@@ -34,24 +36,7 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
-
-![Total Commits](https://img.shields.io/github/commit-activity/m/Mohsin0582/YourRepository?style=flat-square)
-
-![Pull Requests](https://img.shields.io/github/issues-pr/Mohsin0582/YourRepository?style=flat-square&logo=github)
-
-![Stars](https://img.shields.io/github/stars/Mohsin0582/YourRepository?style=flat-square&logo=github)
-
-![Forks](https://img.shields.io/github/forks/Mohsin0582/YourRepository?style=flat-square&logo=github)
-
-## 🌐 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin0582&layout=compact&theme=radical)](https://github.com/Mohsin0582)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
-
-
     
 <br/>
 
