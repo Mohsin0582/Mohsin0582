@@ -57,11 +57,36 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
 - [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/muhammadmohsin.shahzad.3)
-- [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mohsin0582/?igsh=MXRoazlxb2ZjaHZ4OQ%3D%3D)
+- [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mohsin0582)
 - [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MMohsin88)
 - [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/mmohsinshahzad)
 - [![Dribbble](https://img.shields.io/badge/-Dribbble-blue?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/Mohsin0582)
 
+
+- Plain Icons: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+- Square Icons with Gradient: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+- Round Icons: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=round)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+- Icons with Padding: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+- Icons with Border: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=20&labelColor=333&color=0077B5)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+- Icons with Animated Effect:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=20&labelColor=333&color=0077B5)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
+
+[
+](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
 
 Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or just chat!
 
