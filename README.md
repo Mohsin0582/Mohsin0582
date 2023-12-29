@@ -55,12 +55,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 ## 🤝 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=round)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
-- [![Facebook](https://img.shields.io/badge/-Facebook-lightblue?style=flat-square&logo=Facebook&logoColor=white&style=round)](https://www.facebook.com/muhammadmohsin.shahzad.3)
-- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=Twitter&logoColor=white&style=round)](https://www.twitter.com/MMohsin88)
-- [![Instagram](https://img.shields.io/badge/-Instagram-orangered?style=flat-square&logo=Instagram&logoColor=white&style=round)](https://www.instagram.com/mohsin0582)
-- [![Behance](https://img.shields.io/badge/-Behance-darkblue?style=flat-square&logo=Behance&logoColor=white&style=round)](https://www.behance.net/mmohsinshahzad)
-- [![Dribbble](https://img.shields.io/badge/-Dribbble-darkpink?style=flat-square&logo=Dribbble&logoColor=white&style=round)](https://www.dribbble.com/Mohsin0582)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=round)](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/) [![Facebook](https://img.shields.io/badge/-Facebook-royalblue?style=flat-square&logo=Facebook&logoColor=white&style=round)](https://www.facebook.com/muhammadmohsin.shahzad.3) [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=Twitter&logoColor=white&style=round)](https://www.twitter.com/MMohsin88) [![Instagram](https://img.shields.io/badge/-Instagram-orangered?style=flat-square&logo=Instagram&logoColor=white&style=round)](https://www.instagram.com/mohsin0582) [![Behance](https://img.shields.io/badge/-Behance-darkblue?style=flat-square&logo=Behance&logoColor=white&style=round)](https://www.behance.net/mmohsinshahzad) [![Dribbble](https://img.shields.io/badge/-Dribbble-darkpink?style=flat-square&logo=Dribbble&logoColor=white&style=round)](https://www.dribbble.com/Mohsin0582)
 
 
 Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or just chat!
