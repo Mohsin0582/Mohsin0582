@@ -17,7 +17,19 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Mohsin! 👋
 
-I'm a passionate MERN stack developer with a love for building scalable and efficient web applications. Here you'll find a glimpse of my work, skills, and contributions to the developer community.
+## 📝 About Me:
+
+💻 Coder with a Creative Twist
+
+I'm a passionate and detail-oriented MERN stack developer with a unique blend of coding prowess and design sensibility. My journey began with a love for problem-solving and creating efficient solutions, but along the way, I discovered a passion for crafting visually appealing and user-friendly experiences.
+
+🎨 Design Savvy:
+
+What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
+
+🔗 Continuous Learner and Collaborator:
+
+Technology evolves, and so do I. Constantly learning new tools and technologies to enhance my skill set
 
 
 ## 🔧 Skills & Technologies
