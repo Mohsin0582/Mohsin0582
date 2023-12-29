@@ -32,7 +32,6 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 <br/>
 
 ## 📈 GitHub Stats
-<p style="background-color:red;padding:20px;border-radius:8px;">
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
@@ -44,7 +43,8 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 ![Stars](https://img.shields.io/github/stars/Mohsin0582/YourRepository?style=flat-square&logo=github)
 
 ![Forks](https://img.shields.io/github/forks/Mohsin0582/YourRepository?style=flat-square&logo=github)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin0582&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
     
 <br/>
 
