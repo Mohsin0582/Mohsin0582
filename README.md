@@ -1,20 +1,6 @@
 ### ![Hello GIF](https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif)
 
 
-<!--
-**Mohsin0582/Mohsin0582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 📝 Hi there, I'm Mohsin! 👋
 
@@ -28,7 +14,7 @@ I'm a passionate and detail-oriented MERN stack developer with a unique blend of
 
 What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
 
-
+<br/><br/>
 
 ## 🔧 Skills & Technologies
 
@@ -41,29 +27,16 @@ What sets me apart is my keen eye for design. Whether it's creating pixel-perfec
 
 <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
 
-<!--
-## 🚀 Projects
 
-### Project 1: [Project Name](Link to Repository)
-- Brief description of the project.
-- Technologies used.
-- Any notable achievements or challenges.
+<br/><br/>
 
-### Project 2: [Project Name](Link to Repository)
-- Brief description of the project.
-- Technologies used.
-- Any notable achievements or challenges.
--->
 
 ## 🌱 Continuous Learner
 
 Technology evolves, and so do I. I'm always eager to learn and stay updated with the latest technologies to enhance my skill set.
 
 
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+<br/><br/>
 
 
 ## 🤝 Let's Connect
@@ -75,7 +48,14 @@ If you're seeking a developer who can seamlessly weave code and design into a co
 
 Happy coding! 🎨👩‍💻
 
-<!-- ![Coding GIF](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif) -->
 <p>
     <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
+
+
+<br/><br/>
+
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
