@@ -2,7 +2,7 @@
 
 # 📝 Hi there, I'm Mohsin! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square) -->
 
 **💻 Coder with a Creative Twist**
 
