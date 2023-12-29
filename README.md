@@ -28,10 +28,6 @@ I'm a passionate and detail-oriented MERN stack developer with a unique blend of
 
 What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
 
-🔗 Continuous Learner and Collaborator:
-
-Technology evolves, and so do I. Constantly learning new tools and technologies to enhance my skill set
-
 
 
 ## 🔧 Skills & Technologies
@@ -43,8 +39,7 @@ Technology evolves, and so do I. Constantly learning new tools and technologies 
 - **Deployment:** Heroku, Netlify, Vercel
 - **Testing:** Jest, Mocha, Chai
 
-<img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/jest/jest.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
-
+<img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
 
 <!--
 ## 🚀 Projects
@@ -60,9 +55,9 @@ Technology evolves, and so do I. Constantly learning new tools and technologies 
 - Any notable achievements or challenges.
 -->
 
-## 🌱 Currently Learning
+## 🌱 Continuous Learner
 
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring [Technology/Topic] to enhance my skill set.
+Technology evolves, and so do I. I'm always eager to learn and stay updated with the latest technologies to enhance my skill set.
 
 
 
@@ -81,6 +76,6 @@ If you're seeking a developer who can seamlessly weave code and design into a co
 Happy coding! 🎨👩‍💻
 
 <!-- ![Coding GIF](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif) -->
-<p align="center">
+<p>
     <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
