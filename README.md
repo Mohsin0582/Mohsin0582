@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif
 
 <!--
 **Mohsin0582/Mohsin0582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,7 +51,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- LinkedIn: https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/
 - Twitter: [@YourTwitterHandle](Link to Twitter)
 - Personal Website: [Your Website](Link to Personal Website)
 
