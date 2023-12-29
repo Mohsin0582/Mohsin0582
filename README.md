@@ -22,13 +22,15 @@ I'm a passionate MERN stack developer with a love for building scalable and effi
 ## 🔧 Skills & Technologies
 
 
-- **Frontend:** React.js <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="20" height="20" />, Redux <img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="20" height="20" />, HTML <img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="20" height="20" />, CSS <img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="20" height="20" />, JavaScript <img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="20" height="20" />
-- **Backend:** Node.js <img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="20" height="20" />, Express.js <img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="20" height="20" />, MongoDB <img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="20" height="20" />, Mongoose <img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="20" height="20" />
-- **Database:** MongoDB <img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="20" height="20" />
-- **Tools:** Git <img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="20" height="20" />, Webpack <img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="20" height="20" />, Babel <img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="20" height="20" />
-- **Deployment:** Heroku <img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="20" height="20" />, Netlify <img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="20" height="20" />, Vercel <img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="20" height="20" />
-- **Testing:** Jest <img src="https://github.com/github/explore/raw/main/topics/jest/jest.png" width="20" height="20" />, Mocha <img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="20" height="20" />, Chai <img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="20" height="20" />
+- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose
+- **Database:** MongoDB
+- **Tools:** Git, Webpack, Babel
+- **Deployment:** Heroku, Netlify, Vercel
+- **Testing:** Jest, Mocha, Chai
 
+
+<img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/jest/jest.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="20" height="20" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="20" height="20" />
 
 <!--
 ## 🚀 Projects
@@ -53,7 +55,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/
+- LinkedIn: [@m-mohsin-shahzad-aa874912a](https://www.linkedin.com/in/m-mohsin-shahzad-aa874912a/)
 - Twitter: [@YourTwitterHandle](Link to Twitter)
 - Personal Website: [Your Website](Link to Personal Website)
 
