@@ -50,3 +50,25 @@ Happy coding! 🎨👩‍💻
 <p>
     <img src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="Developer GIF" width="" height="400">
 </p>
+
+
+
+
+<br/>
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+<br/><br/>
+
+## ⭐ GitHub Achievements
+
+![GitHub stars](https://img.shields.io/github/stars/YourRepository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YourRepository?style=social)
+![GitHub issues](https://img.shields.io/github/issues/YourRepository?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YourRepository?style=social)
+
+<br/>
