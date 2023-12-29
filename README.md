@@ -1,14 +1,14 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
-
 ### ![Hello GIF](https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif)
 
 # 📝 Hi there, I'm Mohsin! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsin0582&color=blue&style=flat-square)
 
 **💻 Coder with a Creative Twist**
 
 I'm a passionate and detail-oriented MERN stack developer with a unique blend of coding prowess and design sensibility. My journey began with a love for problem-solving and creating efficient solutions, but along the way, I discovered a passion for crafting visually appealing and user-friendly experiences.
 
-<p style="background:red;">**🎨 Design Savvy**</p>
+**🎨 Design Savvy**
 
 What sets me apart is my keen eye for design. Whether it's creating pixel-perfect user interfaces or architecting the backend infrastructure, I enjoy the entire journey of bringing ideas to life. In each project, I strive to strike the perfect balance between functionality and aesthetics.
 
@@ -21,9 +21,9 @@ What sets me apart is my keen eye for design. Whether it's creating pixel-perfec
 - **Database:** MongoDB
 - **Tools:** Git, Webpack, Babel
 - **Deployment:** Heroku, Netlify, Vercel
-- **Testing:** Jest, Mocha, Chai
+- **Testing:** Jest, Mocha
 
-<img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/chai/chai.png" width="" height="40" />
+<img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/redux/redux.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/html/html.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/css/css.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/express/express.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/webpack/webpack.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/babel/babel.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/netlify/netlify.png" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/vercel/vercel.png" width="" height="40" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jest.svg" width="" height="40" /><img src="https://github.com/github/explore/raw/main/topics/mocha/mocha.png" width="" height="40" />
 
 <br/>
 
