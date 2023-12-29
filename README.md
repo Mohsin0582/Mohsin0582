@@ -21,12 +21,13 @@ I'm a passionate MERN stack developer with a love for building scalable and effi
 
 ## 🔧 Skills & Technologies
 
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Database:** MongoDB
-- **Tools:** Git, Webpack, Babel
-- **Deployment:** Heroku, Netlify, Vercel
-- **Testing:** Jest, Mocha, Chai
+- **Frontend:** React.js ![React Icon](https://github.com/github/explore/raw/main/topics/react/react.png), Redux ![Redux Icon](https://github.com/github/explore/raw/main/topics/redux/redux.png), HTML ![HTML Icon](https://github.com/github/explore/raw/main/topics/html/html.png), CSS ![CSS Icon](https://github.com/github/explore/raw/main/topics/css/css.png), JavaScript ![JavaScript Icon](https://github.com/github/explore/raw/main/topics/javascript/javascript.png)
+- **Backend:** Node.js ![Node.js Icon](https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png), Express.js ![Express.js Icon](https://github.com/github/explore/raw/main/topics/express/express.png), MongoDB ![MongoDB Icon](https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png), Mongoose ![Mongoose Icon](https://github.com/github/explore/raw/main/topics/mongoose/mongoose.png)
+- **Database:** MongoDB ![MongoDB Icon](https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png)
+- **Tools:** Git ![Git Icon](https://github.com/github/explore/raw/main/topics/git/git.png), Webpack ![Webpack Icon](https://github.com/github/explore/raw/main/topics/webpack/webpack.png), Babel ![Babel Icon](https://github.com/github/explore/raw/main/topics/babel/babel.png)
+- **Deployment:** Heroku ![Heroku Icon](https://github.com/github/explore/raw/main/topics/heroku/heroku.png), Netlify ![Netlify Icon](https://github.com/github/explore/raw/main/topics/netlify/netlify.png), Vercel ![Vercel Icon](https://github.com/github/explore/raw/main/topics/vercel/vercel.png)
+- **Testing:** Jest ![Jest Icon](https://github.com/github/explore/raw/main/topics/jest/jest.png), Mocha ![Mocha Icon](https://github.com/github/explore/raw/main/topics/mocha/mocha.png), Chai ![Chai Icon](https://github.com/github/explore/raw/main/topics/chai/chai.png)
+
 
 <!--
 ## 🚀 Projects
