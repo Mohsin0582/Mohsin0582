@@ -33,7 +33,17 @@ Technology evolves, and so do I. I'm always eager to learn and stay updated with
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsin0582&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+![Your GitHub Stats]![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+
+![Your GitHub Stats]![Total Commits](https://img.shields.io/github/commit-activity/m/YourGitHubUsername/YourRepository?style=flat-square)
+
+![Your GitHub Stats]![Pull Requests](https://img.shields.io/github/issues-pr/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
+
+![Your GitHub Stats]![Stars](https://img.shields.io/github/stars/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
+
+![Your GitHub Stats]![Forks](https://img.shields.io/github/forks/YourGitHubUsername/YourRepository?style=flat-square&logo=github)
 
 <br/>
 
